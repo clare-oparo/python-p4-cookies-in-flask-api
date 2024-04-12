@@ -135,7 +135,7 @@ automatically passing additional data with each request using the headers. We
 can get a better sense of how cookies are being used by websites using the
 browser dev tools.
 
-***
+****
 
 ## Check For Understanding
 
